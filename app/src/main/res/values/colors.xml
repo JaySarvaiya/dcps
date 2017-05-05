@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="DCPSNavy">#005283</color>
+    <color name="DCPSGray">#A4AEB5</color>
+    <color name="DCPSAqua">#3797CF</color>
+    <color name="Example1">#005283</color>
+    <color name="Example2">#A4AEB5</color>
+    <color name="Example3">#3797CF</color>
+</resources>
